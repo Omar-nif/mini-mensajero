@@ -1,0 +1,15 @@
+# Dependencias
+/node_modules
+/npm-debug.log
+
+# Logs
+logs
+*.log
+
+# Entorno de variables
+.env
+.env.*
+
+# Producción/Build
+/dist
+/build
